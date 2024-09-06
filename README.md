@@ -8,3 +8,5 @@ A template repository to publish games
 [Player Scene 9/4](player_scene_9_4/)
 
 [Main Scene 9/4](main_scene_9_4/)
+
+[Main Scene 9/6](main_scene_9_6/)
