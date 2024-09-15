@@ -1,6 +1,12 @@
 # GamePublish
 A template repository to publish games
 
+## Project 1
+
+[Phase I](project-1-phase-I/)
+
+## Class Progress
+
 [Player Scene 8/28](player_scene/)
 
 [Player Scene 8/30](player_scene_8_30/)
