@@ -7,6 +7,10 @@ A template repository to publish games
 
 [Phase II (Unfinished)](project-1-phase-II/)
 
+## Project 2
+
+[Phase I](project-2-phase-I/)
+
 ## Class Progress
 
 [Player Scene 8/28](player_scene/)
