@@ -50,3 +50,5 @@ A template repository to publish games
 [Main Scene 10/2](main_scene_10_2/)
 
 [Level Scene 10/4](level_01_scene_10_4/)
+
+[Level Scene 10/7](level_01_scene_10_7/)
