@@ -5,7 +5,7 @@ A template repository to publish games
 
 [Phase I](project-1-phase-I/)
 
-[Phase II (Unfinished)](project-1-phase-II/)
+[Phase II](project-1-phase-II/)
 
 ## Project 2
 
@@ -56,3 +56,5 @@ A template repository to publish games
 [Level Scene 10/9](level_01_scene_10_9/)
 
 [Main Scene 10/11](main_scene_10_11/)
+
+[Test Scene 10/16](test_scene_10_16/)
