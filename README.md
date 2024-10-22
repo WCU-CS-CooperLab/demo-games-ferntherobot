@@ -58,3 +58,7 @@ A template repository to publish games
 [Main Scene 10/11](main_scene_10_11/)
 
 [Test Scene 10/16](test_scene_10_16/)
+
+[Main Scene 10/18](main_scene_10_18/)
+
+[Main Scene 10/21](main_scene_10_21/)
