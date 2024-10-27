@@ -13,6 +13,10 @@ A template repository to publish games
 
 [Phase II](project-2-phase-II/)
 
+## Project 3
+
+[Phase I](project-3-phase-I/)
+
 ## Class Progress
 
 [Player Scene 8/28](player_scene/)
