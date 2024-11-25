@@ -21,7 +21,7 @@ A template repository to publish games
 
 ## Project 4
 
-If it doesn't work, let me know, and I'll reset the server.
+If it doesn't let you join, other people may be playing. If it persists, let me know.
 
 [Windows](project-4/Windows.zip)
 
