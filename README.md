@@ -27,6 +27,8 @@ If it doesn't let you join, other people may be playing. If it persists, let me 
 
 [Mac](project-4/Mac.zip)
 
+[Linux](project-4/Linux.zip)
+
 ## Team Project
 
 [Team Project 1](team-project-1/)
