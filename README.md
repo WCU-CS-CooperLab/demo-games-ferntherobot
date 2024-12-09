@@ -21,7 +21,7 @@ A template repository to publish games
 
 ## Project 4
 
-If it doesn't let you join, other people may be playing. If it persists, let me know.
+**CURRENTLY OFFLINE**
 
 [Windows](project-4/Windows.zip)
 
@@ -29,9 +29,15 @@ If it doesn't let you join, other people may be playing. If it persists, let me 
 
 [Linux](project-4/Linux.zip)
 
-## Team Project
+## Team Project 1
 
 [Team Project 1](team-project-1/)
+
+## Team Project 2
+
+[Windows](team-project-2/Sons_of_Nug_Windows.zip)
+
+[Mac](team-project-2/Sons_of_Nug_Mac.zip)
 
 ## Class Progress
 
